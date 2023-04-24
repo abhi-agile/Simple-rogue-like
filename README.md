@@ -1,4 +1,4 @@
-# Simple-rogue-like
+# Simple rogue-like
 
 ### Written in (Turbo) C++, but has procedural design.
 
